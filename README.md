@@ -1,6 +1,7 @@
 
 <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> This is Tanvir Anzum </h1>
-<img src = "https://drive.google.com/uc?export=view&id=1JF84kCJoMJ3Y0ZzJ7JMGZstR_MwX4E4h"  alt="image containing Tanvir Anzum"/>
+<img src = "https://drive.google.com/uc?export=view&id=1YKJenwvpO2gTrWoQl3-6ztxiHrmYWIXo"  alt="image containing Tanvir Anzum"/>
+
 <hr>
 <p>
   I am a passionate programmer and a <strong>Computer Science & Engineering</strong> graduate! I like to explore new areas of modern computer science and algorithms. I was a competitive programmer and participated in several programming contests. Now I am concentrating on full stack web development. 
@@ -12,7 +13,6 @@
   <li><b>Very keen to learn new things.</b></li>
   <li><b>A computer enthusiast</b></li>
 </ul>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>

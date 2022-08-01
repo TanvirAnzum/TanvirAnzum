@@ -10,7 +10,7 @@
 <ul>
   <li><b>Graduated from: Hajee Mohammad Danesh Science & Technology University, Dinajpur.</b></li>
   <li><b>A self motivated person.</b></li>
-  <li><b>Very keen to learn new things.</b></li>
+  <li><b>Keen to learn new things.</b></li>
   <li><b>A computer enthusiast</b></li>
 </ul>
 

@@ -1,6 +1,6 @@
 
 <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> This is Tanvir Anzum </h1>
-<img src = "https://drive.google.com/uc?export=view&id=1YKJenwvpO2gTrWoQl3-6ztxiHrmYWIXo"  alt="image containing Tanvir Anzum"/>
+
 
 <hr>
 <p>
